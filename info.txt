@@ -1,0 +1,4 @@
+
+Este es un archivo de información en TXT 
+
+# Moficación del archivo
